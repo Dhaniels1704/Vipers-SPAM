@@ -29,7 +29,6 @@ ungu="\033[1;95m"
 merah="\033[1;91m"
 biru="\033[1;96m"
 
-os.system("clear")
 autoketik(f"""
 {hijau}╔═╗{merah}┌─┐┌─┐┌┬┐  {biru}╦ ╦┬ ┬┌─┐┌┬┐{putih}┌─┐{kuning}┌─┐┌─┐ ┌─┐
 {hijau}╚═╗{merah}├─┘├─┤│││  {biru}║║║├─┤├─┤ │ {putih}└─┐{kuning}├─┤├─┘ ├─┘
