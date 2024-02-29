@@ -1,8 +1,5 @@
-<p align="center">
-<a href="#"><img src="https://telegra.ph/file/513705cc3b283b556ef3c.png" alt="WHATSAPP SPAM OTP" width="200" height="130"/></a>
-
 ## NOTE
-Jangan menyalahgunakan script ini, gunakan script ini dengan bijak. Dosa ditanggung yang pakai !
+Script ini sedang digunakan untuk media pembelajaran, jika tidak bekerja ya maklumi saja namanya juga pemula :)
 
 <h1 align="center">WHATSAPP-SPAM-OTP</h1>
 
@@ -19,7 +16,7 @@ apt install python -y
 git clone https://github.com/Dhaniels1704/WhatsApp-Spam
 cd Whatsapp-Spam
 pip install -r install.txt
-python waspaml.py
+python waspam.py
 ```
 
 ## UPDATE SCRIPT
