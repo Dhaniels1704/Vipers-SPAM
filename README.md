@@ -3,7 +3,7 @@ Script dibuat untuk media pembelajaran, jangan disalah gunakan, dosa ditanggung 
 
 ## CREDITS
 Script Original by : [Rickyfazaa](https://github.com/rickyfazaa)
-Recode : Dhaniels1704
+<br>Recode : Dhaniels1704
 
 
 ### <p style="color:red">NOTE: Instalasi Dengan GIT</p> Jika kamu Programmer yang memiliki [GIT](https://git-scm.com/downloads) maka,
