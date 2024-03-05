@@ -18,7 +18,7 @@ git clone https://github.com/Dhaniels1704/Vipers-SPAM
 ```sh
 cd Vipers-SPAM
 ```
-- **Jalankan Vipers.py atau Ketik ini di Terminal ( CMD )**
+- **Jalankan vipers.py atau Ketik ini di Terminal ( CMD )**
 ```bash
-python Vipers.py
+python vipers.py
 ```
