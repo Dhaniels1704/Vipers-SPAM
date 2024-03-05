@@ -1,9 +1,10 @@
 ## NOTE
-Scri
+Script dibuat untuk media pembelajaran, jangan disalah gunakan, dosa ditanggung sendiri !!
 
+## CREDITS
+Script Original by : [Rickyfazaa](https://github.com/rickyfazaa)
+Recode : Dhaniels1704
 
-## Video Tutorial 🚀
-**`Coming Soon`**
 
 ### <p style="color:red">NOTE: Instalasi Dengan GIT</p> Jika kamu Programmer yang memiliki [GIT](https://git-scm.com/downloads) maka,
 
@@ -11,7 +12,7 @@ Scri
 
 - **Clone repository**
 ```bash
-git clone https://github.com/rickyfazaa/MySPAMBot-OTP
+git clone https://github.com/Dhaniels1704/Vipers-SPAM
 ```
 - **Masuk kedalam directory**
 ```sh
